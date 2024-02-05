@@ -41,14 +41,11 @@ import rubyrails from './tech/rubyrails.png';
 import ewh from './company/ewh.jpeg';
 import tahtan from './company/tahtan.jpeg';
 import memolope from './company/memolope.png';
-import microverse from './company/microverse.png';
 
 import officebook from './projects/officebook.png';
 import tuneup from './projects/tuneup.png';
 import bst from './projects/bst.png';
 import pls from './projects/pls.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
 
 export {
   bwmap,
@@ -90,10 +87,7 @@ export {
   tuneup,
   pls,
   bst,
-  nyeusi,
-  space,
   ewh,
   tahtan,
   memolope,
-  microverse,
 };

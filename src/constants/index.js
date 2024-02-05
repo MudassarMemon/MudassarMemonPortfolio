@@ -21,8 +21,6 @@ import {
   tuneup,
   bst,
   pls,
-  nyeusi,
-  space,
   ewh,
   memolope,
   tahtan,
@@ -244,7 +242,7 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'PLS Mechanical',
     description:
       'This is a demo concert website for a music festival called Nyeusi.',
     tags: [
@@ -261,7 +259,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: nyeusi,
+    image: pls,
     repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
     demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
   },
