@@ -10,7 +10,7 @@ import {
   reactjs,
   redux,
   tailwind,
-  nodejs,
+  python,
   git,
   figma,
   docker,
@@ -91,7 +91,7 @@ const technologies = [
   },
   {
     name: 'Node JS',
-    icon: nodejs,
+    icon: python,
   },
   {
     name: 'Rails',
