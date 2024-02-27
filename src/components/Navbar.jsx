@@ -49,7 +49,7 @@ const Navbar = () => {
           ))}
 
           <li className='dev-links'>
-            <a target="_blank" href="https://github.com/MudassarMemon/JavascriptDemo">
+            <a target="_blank" href="https://github.com/MudassarMemon">
               <img id="dev-links" src="https://img.icons8.com/sf-ultralight/52/000000/github.png"/>
             </a>
           </li>

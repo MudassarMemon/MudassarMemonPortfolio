@@ -22,6 +22,7 @@ import {
   bst,
   pls,
   ewh,
+  kernul,
   memolope,
   tahtan,
 } from '../assets';
@@ -128,18 +129,18 @@ const experiences = [
     date: 'Dec 2015 - Jan 2016',
   },
   {
-    title: 'Assistant Project Estimator',
-    company_name: 'EW Howell',
-    icon: ewh,
-    iconBg: '#333333',
-    date: 'May 2016 - May 2017',
-  },
-  {
     title: 'Project Manager',
     company_name: 'EW Howell',
     icon: ewh,
     iconBg: '#333333',
-    date: 'Aug 2017 - Jun 2022',
+    date: 'May 2016 - June 2022',
+  },
+  {
+    title: 'Web Developer',
+    company_name: 'Kernul',
+    icon: kernul,
+    iconBg: '#333333',
+    date: 'Dec 2020 - Sept 2021',
   },
   {
     title: 'Full Stack Developer',
@@ -237,32 +238,32 @@ const projects = [
       },
     ],
     image: pls,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    repo: 'https://github.com/MudassarMemon/PLS_express',
+    demo: 'https://lionfish-app-fnutv.ondigitalocean.app/',
   },
-  {
-    id: 'project-5',
-    name: 'PLS Mechanical',
-    description:
-      'This is a demo concert website for a music festival called Nyeusi.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: pls,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
-  },
+  // {
+  //   id: 'project-5',
+  //   name: 'PLS Mechanical',
+  //   description:
+  //     'This is a demo concert website for a music festival called Nyeusi.',
+  //   tags: [
+  //     {
+  //       name: 'nextjs',
+  //       color: 'blue-text-gradient',
+  //     },
+  //     {
+  //       name: 'supabase',
+  //       color: 'green-text-gradient',
+  //     },
+  //     {
+  //       name: 'css',
+  //       color: 'pink-text-gradient',
+  //     },
+  //   ],
+  //   image: pls,
+  //   repo: 'https://github.com/MudassarMemon/PLS_express',
+  //   demo: 'https://lionfish-app-fnutv.ondigitalocean.app/',
+  // },
 ];
 
 export { services, technologies, experiences, projects };

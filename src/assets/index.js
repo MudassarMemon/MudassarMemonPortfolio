@@ -41,11 +41,12 @@ import rubyrails from './tech/rubyrails.png';
 import ewh from './company/ewh.jpeg';
 import tahtan from './company/tahtan.jpeg';
 import memolope from './company/memolope.png';
+import kernul from './company/kernul.jpeg'
 
 import officebook from './projects/officebook.png';
 import tuneup from './projects/tuneup.png';
 import bst from './projects/bst.png';
-import pls from './projects/pls.png';
+import pls from './projects/pls.jpeg';
 
 export {
   bwmap,
@@ -90,4 +91,5 @@ export {
   ewh,
   tahtan,
   memolope,
+  kernul
 };
